@@ -70,10 +70,10 @@ npm run build
 📸 Screenshots / Demo
 
 ### Hero Section
-![Hero Section Screenshot](src/assets/hero.png)
+![Hero Section Screenshot](./src/assets/hero.png)
 
 ### Animation Demo
-![Hero Animation](src/assets/video.mp4)
+![Hero Animation](./src/assets/hero-animation.gif)
 
 
 
@@ -83,7 +83,7 @@ This project is licensed under the MIT License.
 
 👤 Author
 
-GitHub: palak720
+[GitHub](palak720)
 
-Live Demo:https://k72-d8bd47.netlify.app/
+[Live Demo](https://k72-d8bd47.netlify.app/)
 
