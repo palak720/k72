@@ -43,31 +43,22 @@ k72/
 │── README.md
 
 
-🛠️ Getting Started
-
-Clone the repository
-
+## 🛠️ Getting Started
+1. Clone the repository
 git clone https://github.com/palak720/k72.git
 cd k72
 
-
-Install dependencies
-
+## 2. Install dependencies
 npm install
 
-
-Run the development server
-
+## 3. Run the development server
 npm run dev
 
 
-Open http://localhost:5173/ in your browser.
+Open http://localhost:5173/
+ in your browser.
 
-Build for production
-
-npm run build
-
-📸 Screenshots / Demo
+ ## 📸 Screenshots / Demo
 
 ### Hero Section
 ![Hero Section Screenshot](./src/assets/hero.png)
@@ -75,15 +66,8 @@ npm run build
 ### Animation Demo
 ![Hero Animation](./src/assets/hero-animation.gif)
 
-
-
-📝 License
-
-This project is licensed under the MIT License.
-
-👤 Author
+## 👤 Author
 
 [GitHub](palak720)
 
 [Live Demo](https://k72-d8bd47.netlify.app/)
-
