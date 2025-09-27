@@ -70,10 +70,10 @@ npm run build
 📸 Screenshots / Demo
 
 ### Hero Section
-![Hero Section Screenshot](src/assets/screenshots/hero.png)
+![Hero Section Screenshot](src/assets/hero.png)
 
 ### Animation Demo
-![Hero Animation](src/assets/gifs/video.mp4.gif)
+![Hero Animation](src/assets/video.mp4)
 
 
 
