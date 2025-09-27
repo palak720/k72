@@ -25,7 +25,7 @@ A modern animated landing page built with **ReactJS, Tailwind CSS, and GSAP**, d
 ---
 
 ## 📂 Project Structure
-
+---
 
 k72/
 │── public/                # Static files
